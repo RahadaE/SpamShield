@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.9670542635658915,
+  "spam_precision": 1.0,
+  "spam_recall": 0.734375,
+  "spam_f1": 0.8468468468468469,
+  "training_messages": 4128,
+  "test_messages": 1032,
+  "confusion_matrix": [
+    [
+      904,
+      0
+    ],
+    [
+      34,
+      94
+    ]
+  ]
+}
